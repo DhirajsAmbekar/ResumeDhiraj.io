@@ -31,7 +31,6 @@ body {
   text-align: center;
   transform: translateY(-25px);
   position: relative;
-  z-index: -1;
 }
 .resume_container .sectios_l_r {
   display: flex;
